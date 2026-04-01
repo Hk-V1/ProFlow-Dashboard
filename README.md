@@ -26,7 +26,7 @@ SQLite (`proflow.db`) is auto-created on first run. All data is stored locally.
 ---
 
 ## Tech Stack
-- **Streamlit** — UI framework  
-- **SQLite** — Local database  
-- **Pandas** — Data handling  
-- **Plotly** — Charts & visualizations
+- **Streamlit** - UI framework  
+- **SQLite** - Local database  
+- **Pandas** - Data handling  
+- **Plotly** - Charts & visualizations
